@@ -2,6 +2,11 @@
 
 The purpose of this repository is to test CycleJS with JSPM in a OSX dev environment
 
+* First issue to find a solution: https://github.com/siramon/jspm-cycle-test/issues/1
+* ...
+
+
+
 ## Installation
 
 ### NPM

@@ -1,5 +1,5 @@
 import {run} from '@cycle/core'
-import {makeDOMDriver} from '@cycle/dom'
+import {div, label, input, makeDOMDriver} from '@cycle/dom'
 
 function main(sources) {
     console.log('does it work?');
